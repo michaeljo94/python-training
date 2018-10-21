@@ -9,23 +9,23 @@ def arithmetic():
     d = c / b           # divison
 
     mudolus = d % c     # mudolus (divides d by c and reutrns the remainder)
-    exp = **a           # exp(a) multiplys a with itself
+    exp = b**a          # exp(b, a) multiplys b exp to a
     fldiv = a//2        # divides a by 2 and floors it
 
 
 def comarison():
-    cond = True
-    if cond == True:                                # ==  -> is eaual to
+
+    if 1 == 1:                            # ==  -> is eaual to
         print("true is always eaqual to true")
-    if cond != False:                               # !=  -> is not equal to
+    if 2 != 1:                           # !=  -> is not equal to
         print("cond is not false")
-    if 1 < 2:                                       # <   -> less than
+    if 1 < 2:                                   # <   -> less than
         print("1 is less than 2")
-    if 2 > 1:                                       # >   -> more than
+    if 2 > 1:                                   # >   -> more than
         print("2 is more than 1")
-    if 2 <= 3:                                      # <=  -> more or eaqual than/to
+    if 2 <= 3:                                  # <=  -> more or eaqual than/to
         print("2 is less or eaqual to 3")
-    if 4 >= 3:                                      # >=  -> less or eaqual then/to
+    if 4 >= 3:                                  # >=  -> less or eaqual then/to
         print("4 is more ore equal to 3")
 
 
