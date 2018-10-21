@@ -14,10 +14,9 @@ def arithmetic():
 
 
 def comarison():
-
-    if 1 == 1:                            # ==  -> is eaual to
+    if 1 == 1:                                  # ==  -> is eaual to
         print("true is always eaqual to true")
-    if 2 != 1:                           # !=  -> is not equal to
+    if 2 != 1:                                  # !=  -> is not equal to
         print("cond is not false")
     if 1 < 2:                                   # <   -> less than
         print("1 is less than 2")
@@ -35,8 +34,8 @@ def assignment_operators():
     c *= 2          # c = c * 2
     d /= 2          # d = d / 2
 
-    e %= 2          # e / 2 » e = remainder
-    f **= 2         # f = f²
+    e %= 2          # e / 2 -> e = remainder
+    f **= 2         # f = f-exp(2)
     g //= 2         # g = g // 2
 
 
