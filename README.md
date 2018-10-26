@@ -1,8 +1,3 @@
----
-title: python-training
-output: pdf_document
----
-
 # python-training
 
 ## Discription
@@ -10,8 +5,6 @@ output: pdf_document
 ### Preamble
 
   This is just a short explaination of the very basic syntax of python.
-
-## Installation
 
 ### Requirements
 
@@ -25,5 +18,5 @@ output: pdf_document
 ### Usage
 
     this project is stuctured in diffrent lessons which are contained
-     in there corosponding directoriys.
-     the **core.py** file you can find the lessons
+    in there corosponding directoriys.
+    the **core.py** file you can find the lessons
