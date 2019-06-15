@@ -4,11 +4,11 @@
 
 ### Preamble
 
-  This is just a short explaination of the very basic syntax of python.
+  This is just a short explanation of the very basic syntax of python.
 
 ### Requirements
 
-    - Python 3.7+
+    - Python 3.6.6
     - any linux Distribution
 
 ### Installation
