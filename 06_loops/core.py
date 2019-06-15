@@ -9,14 +9,14 @@ def for_loops():
 
     for l in range(0, 2000, 1):
         '''
-            it itarates through a list of numers from 0 to 1999 with
+            it iterates through a list of numbers from 0 to 1999 with
              a step-size of 1
             l represents the object which is iterated.
         '''
-        tmp += l                # tmp = tmp + l
+        tmp += l  # tmp = tmp + l
 
     # Nested for-loop
-    for i in tmp_list:          
+    for i in tmp_list:
         for j in i:
             print(j)
 
@@ -30,6 +30,7 @@ def while_loops():
         if you_are_beliver:
             Jesus_is_alive = True
         you_are_beliver = True
+
 
 if __name__ == '__main__':
     main()
