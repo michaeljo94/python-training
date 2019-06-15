@@ -8,7 +8,7 @@
 
 ### Requirements
 
-    - Python 3.6.6
+    - Python 3.7+
     - any linux Distribution
 
 ### Installation
